@@ -202,6 +202,14 @@ body {
     color: black;
 }
 
+.project {
+    text-decoration: none;
+}
+
+.project:hover {
+    color: black;
+}
+
 
 .volunteer h1 {
     margin-left: 22%;
