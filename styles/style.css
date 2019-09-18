@@ -122,27 +122,33 @@ body {
 }
 
 .date1 {
-    margin-left: 45%
+    text-align: right;
+    margin-left: 20%
 }
 
 .date2 {
-    margin-left: 47%;
+    text-align: right;
+    margin-left: 20%;
 }
 
 .date3 {
-    margin-left: 27%;
+    text-align: right;
+    margin-left: 20%;
 }
 
 .date4 {
-    margin-left: 66%;
+    text-align: right;
+    margin-left: 20%;
 }
 
 .date5 {
-    margin-left: 68%;
+    text-align: right;
+    margin-left: 51%;
 }
 
 .date6 {
-    margin-left: 70%;
+    text-align: right;
+    margin-left: 52%;
 }
 
 .end1 {
@@ -248,5 +254,17 @@ body {
 }
 
 .w3-xxlarge {
-        font-family: "Questrial", sans-serif;
+    font-family: "Questrial", sans-serif;
+    text-align: center;
+    color: #1E8BF2;
+}
+
+.author {
+    color: #1E8BF2;
+    font-size: 24px;
+    text-align: center;
+}
+
+.cover {
+    color: white;
 }
