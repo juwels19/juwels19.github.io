@@ -1,0 +1,245 @@
+body {
+    font-family: "Questrial", sans-serif;
+    color: #1E8BF2;
+}
+
+.profile-picture {
+    display: block;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+}
+
+.profile-caption {
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Questrial', sans-serif;
+}
+
+.profile-caption-h2 {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Questrial', sans-serif;
+}
+
+
+.fa-github {
+    color: white;
+    margin-right: 30px;
+}
+
+.icons {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.fa-linkedin-in {
+    margin-right: 30px;
+    color: white;
+}
+
+.fa-envelope {
+    color: white;
+}
+
+
+.w3-bar-item {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+}
+
+.w3-sidebar a{
+    color: white;
+    text-decoration: none;    
+}
+
+.w3-sidebar a:hover{
+    color: lightgray;
+
+}
+
+.w3-sidebar a:active{
+    color: white;
+}
+
+.about h1{
+    margin-left: 22%;
+    text-align: left;
+    padding-top: 15%;
+    color: #1E8BF2;
+    font-size: 48px;
+    font-family: 'Questrial', sans-serif;
+}
+
+.about h2 {
+    margin-left: 22%;
+    margin-bottom: 2%;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Questrial", sans-serif;
+    color: black;
+}
+
+.about h3 {
+    margin-left: 22%;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Questrial", sans-serif;
+}
+
+.about h4 {
+    margin-left: 22%;
+    margin-bottom: 2%;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Questrial", sans-serif;
+    color: black;
+    padding-bottom: 29%
+}
+
+.experience h1 {
+    margin-left: 22%;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 60px;
+    color: #1E8BF2;
+}
+
+.experience h2 {
+    font-family: "Questrial", sans-serif;
+    font-size: 42px;
+    margin-left: 22%;
+}
+
+.experience h3 {
+    margin-left: 22%;
+    margin-right: 5%;
+    font-family: "Questrial", sans-serif;
+    font-size: 20px;
+}
+
+.date1 {
+    margin-left: 53.5%
+}
+
+.date2 {
+    margin-left: 54.5%;
+}
+
+.date3 {
+    margin-left: 40%;
+}
+
+.date4 {
+    margin-left: 69.5%;
+}
+
+.date5 {
+    margin-left: 69.5%;
+}
+
+.date6 {
+    margin-left: 71%;
+}
+
+.end1 {
+    padding-bottom: 24%;
+}
+
+.end2 {
+    MARGIN-bottom: 20%;
+}
+
+.end3 {
+    padding-bottom: 31%;
+}
+
+.end4 {
+    padding-bottom: 35%;
+}
+
+.experience ul {
+    margin-left: 22%;
+    font-family: "Questrial", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.projects h1 {
+    margin-left: 22%;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 60px;
+    color: #1E8BF2;
+}
+
+.projects h2 {
+    font-family: "Questrial", sans-serif;
+    font-size: 42px;
+    margin-left: 22%;
+}
+
+.projects h3 {
+    margin-left: 22%;
+    margin-right: 5%;
+    font-family: "Questrial", sans-serif;
+    font-size: 20px;
+}
+
+.projects ul {
+    margin-left: 22%;
+    font-family: "Questrial", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+
+.volunteer h1 {
+    margin-left: 22%;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 60px;
+    color: #1E8BF2;
+}
+
+.volunteer h2 {
+    font-family: "Questrial", sans-serif;
+    font-size: 42px;
+    margin-left: 22%;
+}
+
+.volunteer h3 {
+    margin-left: 22%;
+    margin-right: 5%;
+    font-family: "Questrial", sans-serif;
+    font-size: 20px;
+}
+
+.volunteer ul {
+    margin-left: 22%;
+    font-family: "Questrial", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.awards h1 {
+    padding-top: 10%;
+    margin-left: 22%;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 60px;
+    color: #1E8BF2;
+}
+
+.awards h2 {
+    font-family: "Questrial", sans-serif;
+    font-size: 42px;
+    margin-left: 22%;
+}
+
+.award {
+    color: black;
+}
