@@ -122,27 +122,27 @@ body {
 }
 
 .date1 {
-    margin-left: 53.5%
+    margin-left: 45%
 }
 
 .date2 {
-    margin-left: 54.5%;
+    margin-left: 47%;
 }
 
 .date3 {
-    margin-left: 40%;
+    margin-left: 27%;
 }
 
 .date4 {
-    margin-left: 69.5%;
+    margin-left: 66%;
 }
 
 .date5 {
-    margin-left: 69.5%;
+    margin-left: 68%;
 }
 
 .date6 {
-    margin-left: 71%;
+    margin-left: 70%;
 }
 
 .end1 {
@@ -158,7 +158,7 @@ body {
 }
 
 .end4 {
-    padding-bottom: 35%;
+    padding-bottom: 25%;
 }
 
 .experience ul {
@@ -242,4 +242,11 @@ body {
 
 .award {
     color: black;
+}
+.w3-panel {
+    margin-left: 22%;
+}
+
+.w3-xxlarge {
+        font-family: "Questrial", sans-serif;
 }
