@@ -268,3 +268,9 @@ body {
     color: white;
 }
 
+@media only screen and (max-width: 650px) {
+    .w3-sidebar {
+        display: none;
+    }
+}
+
